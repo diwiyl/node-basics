@@ -1,0 +1,31 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "Essential stuff about Node.js",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "figlet": "^1.2.1",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs290-sp19/node-basics.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Hess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osu-cs290-sp19/node-basics/issues"
+  },
+  "homepage": "https://github.com/osu-cs290-sp19/node-basics#readme"
+}
